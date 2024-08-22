@@ -1,0 +1,29 @@
+baseURL: https://cameraclub.gbdev.io
+languageCode: en-us
+title: gameboy camera club
+theme: ["PaperMod"]
+copyright: "A footer ·"
+
+params:
+  comments: true
+
+module:
+  imports:
+    - path: github.com/martignoni/hugo-notice
+    
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: uzine2024
+          url: /uzine2024
+          weight: 4

@@ -1,0 +1,51 @@
+body {
+    font-family: "Hack", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 17px;
+}
+
+
+h1, h2, h3, h4, h5, #menu, .logo {
+    /* font-family: "K2D", sans-serif; */
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+pre, code {
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 1.1rem !important;
+}
+
+#menu a {
+    font-size: 20px !important;
+}
+
+.logo a {
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+img {
+    box-shadow: 0 4px 30px var(--primary-r), /* Main soft shadow */ 0 1px 30px var(--primary-r);  /* Subtle top shadow */border-radius: 10px; /* Optional: Rounded corners */
+}
+
+h1 {
+    font-size: 36px !important;
+}
+
+h2 {
+    font-size: 30px !important;
+}
+
+h3 {
+    font-size: 24px !important;
+}
+
+h4 {
+    font-size: 20px !important;
+}
