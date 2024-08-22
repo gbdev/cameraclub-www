@@ -2,7 +2,7 @@ baseURL: https://cameraclub.gbdev.io
 languageCode: en-us
 title: gameboy camera club
 theme: ["PaperMod"]
-copyright: "A footer ·"
+copyright: "[gbdev community](https://gbdev.io) ·"
 
 params:
   comments: true
