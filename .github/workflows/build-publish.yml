@@ -7,6 +7,7 @@ on:
 
 jobs:
   build:
+    name: Build Hugo website
     runs-on: ubuntu-latest
     
     steps:
@@ -28,8 +29,8 @@ jobs:
 
   deploy:
     name: Deploy to GitHub pages
-    # Do not run this unless *pushing* to `master`.
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    # Do not run this unless *pushing* to `main`.
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
