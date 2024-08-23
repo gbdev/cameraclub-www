@@ -1,4 +1,4 @@
-Released in 1988 as a Nintendo
+Released in 1998 as a Nintendo
 accessory for the original
 handheld console, the [Game Boy Camera](https://en.wikipedia.org/wiki/Game_Boy_Camera) became an instant hit
 with kids.
