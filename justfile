@@ -1,5 +1,11 @@
 @default:
     just -l
 
-start:
+init:
+    git submodule update --init --recursive
+
+serve:
     hugo server
+
+build:
+    hugo --minify
