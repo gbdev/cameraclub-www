@@ -32,7 +32,7 @@ Submission:
     - Location: Florence, Italy
 * Nulvi Candelieri
     - Photographer: Nicola Tanca (@cosmainternauta)
-    - Location: Sardinia (Italy)
+    - Location: Sardinia, Italy
 * Walking
     - Photographer: Baron Unread (@baronunread)
     - Location: Triest, Italy
