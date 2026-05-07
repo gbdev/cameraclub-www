@@ -1,15 +1,11 @@
 baseURL: https://cameraclub.gbdev.io
 languageCode: en-us
 title: gameboy camera club
-theme: ["PaperMod"]
+theme: PaperMod
 copyright: "[gbdev community](https://gbdev.io) ·"
 
 params:
   comments: true
-
-module:
-  imports:
-    - path: github.com/martignoni/hugo-notice
     
 languages:
   en:
