@@ -1,15 +1,15 @@
 baseURL: https://cameraclub.gbdev.io
-languageCode: en-us
+locale: en-us
 title: gameboy camera club
 theme: PaperMod
 copyright: "[gbdev community](https://gbdev.io) ·"
 
 params:
   comments: true
-    
+
 languages:
   en:
-    languageName: "English"
+    label: "English"
     weight: 1
     taxonomies:
       category: categories
@@ -26,3 +26,7 @@ languages:
         - name: uzine2024
           url: /uzine2024
           weight: 4
+
+caches:
+  images:
+    dir: :cacheDir/images
