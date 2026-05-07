@@ -10,4 +10,4 @@ capturing the imagination of
 photographers who embrace its
 unique, low-fi aesthetic.
 
-Join us on [discord](https://discord.gg/sBpv4Bz6).
+Join us on [discord](https://discord.gg/sBpv4Bz6) or [telegram](https://t.me/gameboycamera)

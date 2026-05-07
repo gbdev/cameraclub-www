@@ -24,6 +24,9 @@ languages:
         - name: Home
           url: /
           weight: 1
+        - name: uzine2026
+          url: /uzine2026
+          weight: 4
         - name: uzine2024
           url: /uzine2024
           weight: 4
