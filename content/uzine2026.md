@@ -4,7 +4,7 @@ title: μZine 2026
 
 ## Gameboy Camera Club uZine (2026-05-06)
 
-![](/2026-05-06_GameboyCameraClub_uZine_2026_assembled.jpeg)
+![](/2026-05-06_GameboyCameraClub_uZine_2026_assembled_dithered.jpeg)
 
 Second Edition of the Gameboy Camera Club uZine
 
