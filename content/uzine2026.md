@@ -4,11 +4,11 @@ title: μZine 2026
 
 ## Gameboy Camera Club uZine (2026-05-06)
 
-![](/2026-05-06_GameboyCameraClub_uZine_2026_assembled_dithered.png)
+![](/2026-05-08_GameboyCameraClub_uZine_2026_assembled_dithered.png)
 
 Second Edition of the Gameboy Camera Club uZine
 
-* [Download (A4 Page With Assembly Instructions)](/2026-05-06_GameboyCameraClub_uZine_2026.pdf)
+* [Download (A4 Page With Assembly Instructions)](/2026-05-09_GameboyCameraClub_uZine_2026.pdf)
     - This is the main version with all the pages and assembly instructions provided. You need a scissor and a glue stick to assemble this, but overall when assembled it should be the size of a thumb.
 
 Submission:
